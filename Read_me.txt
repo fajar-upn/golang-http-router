@@ -1,0 +1,5 @@
+Golang HTTP Router Syllabus:
+1. Introduction HTTP Router (http_router.go)
+2. Router (Router.go & router_test.go)
+3. Params (params_test.go)
+4. Route Pattern (route_pattern_test.go)
