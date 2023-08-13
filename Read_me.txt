@@ -4,3 +4,5 @@ Golang HTTP Router Syllabus:
 3. Params (params_test.go)
 4. Route Pattern (route_pattern_test.go)
 5. Serve File (serve_file_test.go)
+
+6. Panic Handler (panic_handler_test.go)
