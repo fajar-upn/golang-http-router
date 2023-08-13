@@ -3,3 +3,4 @@ Golang HTTP Router Syllabus:
 2. Router (Router.go & router_test.go)
 3. Params (params_test.go)
 4. Route Pattern (route_pattern_test.go)
+5. Serve File (serve_file_test.go)
