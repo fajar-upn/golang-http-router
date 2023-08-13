@@ -34,7 +34,7 @@ func TestPanicHandler(t *testing.T) {
 		fmt.Fprint(w, "panic :", error)
 	}
 
-	// note: without "router.PanicHandler" website will be error directly
+	// note: without "router.PanicHandler" website will be occur page "this page isn't working"
 	router.GET("/", func(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 		panic("Ups")
 	})
