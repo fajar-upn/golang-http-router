@@ -6,3 +6,4 @@ Golang HTTP Router Syllabus:
 5. Serve File (serve_file_test.go)
 
 6. Panic Handler (panic_handler_test.go)
+7. Not Found Handler (not_found_handler_test.go)
